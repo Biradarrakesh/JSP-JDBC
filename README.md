@@ -1,4 +1,4 @@
-This program demostrates how to create, read and update the database records using JSP, JDBC and MySQL database.
+This program demostrates how to create, read,update and delete the database records using JSP, JDBC and MySQL database.
 
 STEPS:
 
